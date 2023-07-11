@@ -29,7 +29,7 @@ div.top {
 
 h1.time {
     text-align: center;
-    font-size: 5em;
+    font-size: 10em;
 }
 
 div#crypto {
@@ -80,3 +80,15 @@ p.weather-temp {
 p#author {
     font-size: 1rem;
 }
+.quote-container {
+    display: flex;
+    justify-content: center;
+}
+h1#quote {
+    font-size: 20px;
+    padding: 30px; 
+    background: rgba(53, 69, 54, 0.3);
+    border-radius: 10px;
+    max-width: 30em;
+}
+
