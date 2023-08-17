@@ -1,4 +1,4 @@
-# personal-dashboard-extension
+# Personal Dashboard Extension
 ![personal-dashbaord](https://github.com/MaliaPagley/personal-dashboard-extension/assets/103156594/91386994-9bdf-4719-b7b0-50da82f4c21c)
  Scrimba Course Project: This extension displays current information using: Unisplash Image API, CoinGecko API (CRYPTO), OpenWeatherAPI, Quotable API and current time on a page when the user opens up the browser.
 
